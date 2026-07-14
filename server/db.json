@@ -1,0 +1,264 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Buso Oversize snakes",
+      "price": 89900,
+      "description": "Buso de algodón premium oversize.",
+      "quantity": 8,
+      "status": "AVAILABLE",
+      "category": "AW26",
+      "highlighted": true,
+      "image": "/assets/aw26/buso1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Buso Gris",
+      "price": 95000,
+      "description": "Buso frisado unisex.",
+      "quantity": 4,
+      "status": "AVAILABLE",
+      "category": "AW26",
+      "highlighted": false,
+      "image": "/assets/aw26/buso2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Buso Medieval Trend",
+      "price": 87000,
+      "description": "Edición limitada. Full frisado",
+      "quantity": 2,
+      "status": "AVAILABLE",
+      "category": "AW26",
+      "highlighted": true,
+      "image": "/assets/aw26/buso3.jpg"
+    },
+    {
+      "name": "Top Bauhaus",
+      "image": "/assets/shop/bahuhaus_top1.jpg",
+      "description": "Top de Lycra estampa original",
+      "price": 27000,
+      "quantity": 1,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 4
+    },
+    {
+      "name": "Remera Bauhaus",
+      "image": "/assets/shop/bauhaus_remera_1.jpg",
+      "description": "Remera algodón peinado.\nConsultar talles.",
+      "price": 35000,
+      "quantity": 10,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": true,
+      "id": 5
+    },
+    {
+      "name": "Top Siuxie",
+      "image": "/assets/shop/siuxi_1.jpg",
+      "description": "Top Lycra",
+      "price": 30000,
+      "quantity": 12,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 6
+    },
+    {
+      "name": "Buso Oriente",
+      "image": "/assets/shop/buso_negro_chino.jpg",
+      "description": "Buso negro Hoodie algodón frizado",
+      "price": 52000,
+      "quantity": 3,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": true,
+      "id": 7
+    },
+    {
+      "name": "Vestido Vampira",
+      "image": "/assets/shop/aw26_12.jpg",
+      "description": "Vestido encaje con sobrevuelos.",
+      "price": 49000,
+      "quantity": 3,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 8
+    },
+    {
+      "name": "Top Oriente blanco",
+      "image": "/assets/shop/top_china.jpg",
+      "description": "Top Oriente Lycra blanco",
+      "price": 30000,
+      "quantity": 2,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 10
+    },
+    {
+      "name": "King Tote Bag",
+      "image": "/assets/shop/king_tote.jpg",
+      "description": "Tote Bags medida 40x50",
+      "price": 20000,
+      "quantity": 1,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 11
+    },
+    {
+      "name": "Buso California",
+      "image": "/assets/shop/buso_california.jpg",
+      "description": "Buso frizado premium",
+      "price": 95000,
+      "quantity": 3,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 12
+    },
+    {
+      "name": "Buso California",
+      "image": "/assets/shop/buso_california_2.jpg",
+      "description": "Buso frizado premium",
+      "price": 95000,
+      "quantity": 3,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 13
+    },
+    {
+      "name": "Top Olas",
+      "image": "/assets/shop/26.jpg",
+      "description": "Top Olas Lycra",
+      "price": 30000,
+      "quantity": 1,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 14
+    },
+    {
+      "name": "Buso Puas",
+      "image": "/assets/shop/7.jpg",
+      "description": "Buso tipo Hoodie Frizado",
+      "price": 95000,
+      "quantity": 3,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 15
+    },
+    {
+      "name": "Buso King Blanco",
+      "image": "assets/shop/king_ml.jpg",
+      "description": "Buso Blanco algodón ",
+      "price": 52000,
+      "quantity": 1,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 16
+    },
+    {
+      "name": "King combo Promo",
+      "image": "/assets/shop/king_combo.jpg",
+      "description": "Buso + Tote + Remera manga larga",
+      "price": 150000,
+      "quantity": 20,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 17
+    },
+    {
+      "name": "Falda Vampira",
+      "image": "/assets/shop/falda_encaje.jpg",
+      "description": "Falda de encaje + Cinto ojales",
+      "price": 40000,
+      "quantity": 10,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 18
+    },
+    {
+      "name": "Tote Siuxie",
+      "image": "/assets/shop/tote_color.jpg",
+      "description": "Tote Bags 40x50",
+      "price": 30000,
+      "quantity": 1,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 19
+    },
+    {
+      "name": "Tote Bags",
+      "image": "/assets/shop/tote_azul.jpg",
+      "description": "Tote Bags 30x40",
+      "price": 20000,
+      "quantity": 1,
+      "category": "ESENCIALES",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 20
+    },
+    {
+      "name": "Top Punk",
+      "image": "/assets/shop/aw26_3.jpg",
+      "description": "Top batik Lycra",
+      "price": 32000,
+      "quantity": 1,
+      "category": "AW26",
+      "status": "AVAILABLE",
+      "highlighted": false,
+      "id": 21
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Administrador",
+      "email": "admin@incorrecta.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Renata",
+      "email": "renata@gmail.com",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "email": "admin@incorrecta.com",
+      "name": "administrador",
+      "password": "1234",
+      "role": "cliente",
+      "id": 3,
+      "deletedAt": "2026-07-11T23:56:39.235Z"
+    },
+    {
+      "email": "administrador@incorrecta.com",
+      "name": "administrador",
+      "password": "1234",
+      "role": "cliente",
+      "id": 4,
+      "deletedAt": "2026-07-11T23:56:49.247Z"
+    },
+    {
+      "email": "administrador@aynotdead.com",
+      "name": "administrador",
+      "password": "1234",
+      "role": "cliente",
+      "id": 5,
+      "deletedAt": "2026-07-11T23:56:53.809Z"
+    }
+  ]
+}
