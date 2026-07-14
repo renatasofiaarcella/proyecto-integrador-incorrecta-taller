@@ -4,9 +4,8 @@ import App from "./App";
 
 import Home from "./components/pages/Home";
 import Products from "./components/pages/Products";
-import Aw26 from "./components/pages/Aw26";
+import Aw26 from "./components/pages/aw26";
 import Nosotros from "./components/pages/Nosotros";
-import Comunidad from "./components/pages/Comunidad";
 import CartPage from "./components/pages/CartPage";
 
 import LoginUserPage from "./components/pages/LoginUserPage";
@@ -80,10 +79,6 @@ export const router = createBrowserRouter([
             <AdminPanelPage />
           </ProtectedRoute>
         ),
-      },
-      {
-        path: "/comunidad",
-        element: <Comunidad />,
       },
 
 
