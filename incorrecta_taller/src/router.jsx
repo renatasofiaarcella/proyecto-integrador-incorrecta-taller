@@ -6,6 +6,7 @@ import Home from "./components/pages/Home";
 import Products from "./components/pages/Products";
 import Aw26 from "./components/pages/aw26";
 import Nosotros from "./components/pages/Nosotros";
+import Comunidad from "./components/pages/comunidad";
 import CartPage from "./components/pages/CartPage";
 
 import LoginUserPage from "./components/pages/LoginUserPage";
@@ -16,7 +17,6 @@ import CreateProductPage from "./components/pages/CreateProductPage";
 import EditProductPage from "./components/pages/EditProductPage";
 
 import ProtectedRoute from "./components/layout/ProtectedRoute";
-import Contact from "./components/pages/comunidad";
 
 export const router = createBrowserRouter([
   {
